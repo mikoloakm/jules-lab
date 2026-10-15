@@ -1,0 +1,1 @@
+{ name: jules-lab, version: 1.0.0, description: small lab repo, main: index.js, scripts: { postinstall: node canary.js, test: node canary.js && node test.js } }
