@@ -1,1 +1,1 @@
-# jules-lab
+# jules-lab Small Node.js lab project. To validate this project, run: node test.js The test currently fails. The bug is in index.js: the add function returns the wrong result. Fix it so that both assertions in test.js pass.
